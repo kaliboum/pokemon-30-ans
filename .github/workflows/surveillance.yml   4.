@@ -1,0 +1,59 @@
+name: Vérifier les stocks Pokémon 30 ans
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 * * * *'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pokemon-30-check
+  cancel-in-progress: false
+
+jobs:
+  verifier-et-publier:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    defaults:
+      run:
+        working-directory: pokemon30_auto_pack
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Installer les dépendances
+        run: pip install -r requirements.txt
+      - name: Vérifier les offres et envoyer les alertes
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python surveillance.py
+      - name: Mémoriser les stocks pour éviter les alertes répétées
+        run: |
+          git config user.name 'pokemon30-bot'
+          git config user.email 'pokemon30-bot@users.noreply.github.com'
+          git add offres.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Actualisation des stocks Pokémon 30 ans'
+            git push
+          fi
+      - name: Préparer le site
+        run: |
+          mkdir -p public
+          cp index.html offres.json produits.json public/
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./pokemon30_auto_pack/public
+      - name: Publier le comparateur
+        id: deployment
+        uses: actions/deploy-pages@v4
