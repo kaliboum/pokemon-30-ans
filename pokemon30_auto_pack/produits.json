@@ -1,0 +1,468 @@
+{
+  "products": [
+    {
+      "id": "evoli",
+      "name": "Duopack Évoli",
+      "variant": "Pack de 2 boosters + carte promo",
+      "category": "Petits formats",
+      "boosters": 2,
+      "release_date": "2026-09-16",
+      "source": "https://lecrocodeal.com/duopack-evoli-30-ans-pokemon-ou-acheter",
+      "reference_min": 12.99,
+      "reference_max": 14.99,
+      "max_price": 14.99,
+      "ean": "0196214152311",
+      "note": "Blister Évoli, à ne pas confondre avec les duopacks d’autres extensions."
+    },
+    {
+      "id": "mini",
+      "name": "Mini Tin 30 ans",
+      "variant": "10 illustrations, modèle parfois aléatoire",
+      "category": "Petits formats",
+      "boosters": 2,
+      "release_date": "2026-10-02",
+      "source": "https://lecrocodeal.com/mini-tins-pokemon-30e-anniversaire",
+      "reference_min": 11.99,
+      "reference_max": 14.99,
+      "max_price": 14.99,
+      "ean": "0196214146297",
+      "note": "Attention : sélection aléatoire du modèle chez certaines enseignes."
+    },
+    {
+      "id": "bundle",
+      "name": "Bundle 6 boosters",
+      "variant": "Lot de 6 boosters de la série 30 ans",
+      "category": "Boosters",
+      "boosters": 6,
+      "release_date": "2026-10-02",
+      "source": "https://lecrocodeal.com/bundle-6-boosters-pokemon-30-ans-ou-commander",
+      "reference_min": 35.99,
+      "reference_max": 39.99,
+      "max_price": 39.99,
+      "ean": "0196214145221",
+      "note": "Un des formats les plus efficaces en prix par booster."
+    },
+    {
+      "id": "poster",
+      "name": "Coffret Poster",
+      "variant": "3 boosters + promos Artikodin, Électhor et Sulfura",
+      "category": "Coffrets",
+      "boosters": 3,
+      "release_date": "2026-09-16",
+      "source": "https://lecrocodeal.com/coffret-poster-pokemon-30-ans-ou-commander",
+      "reference_min": 27.99,
+      "reference_max": 27.99,
+      "max_price": 27.99,
+      "ean": "0196214147225",
+      "note": "Comprend un poster et les cartes promotionnelles."
+    },
+    {
+      "id": "exnym",
+      "name": "Coffret Nymphali-ex",
+      "variant": "Coffret cartonné, 4 boosters",
+      "category": "Coffrets",
+      "boosters": 4,
+      "release_date": "2026-09-16",
+      "source": "https://lecrocodeal.com/coffrets-pokemon-30-ans-ex-nymphali-et-amphinobi",
+      "reference_min": 25.99,
+      "reference_max": 29.99,
+      "max_price": 29.99,
+      "ean": "0196214147102",
+      "note": "Attention : différent de la Pokébox métallique Nymphali-ex."
+    },
+    {
+      "id": "examph",
+      "name": "Coffret Amphinobi-ex",
+      "variant": "Coffret cartonné, 4 boosters",
+      "category": "Coffrets",
+      "boosters": 4,
+      "release_date": "2026-09-16",
+      "source": "https://lecrocodeal.com/coffrets-pokemon-30-ans-ex-nymphali-et-amphinobi",
+      "reference_min": 25.99,
+      "reference_max": 29.99,
+      "max_price": 29.99,
+      "ean": "0196214147164",
+      "note": "Attention : différent de la Pokébox métallique Amphinobi-ex."
+    },
+    {
+      "id": "etb",
+      "name": "ETB Dresseur d’Élite",
+      "variant": "9 boosters + Nidorina promotionnelle et accessoires",
+      "category": "Coffrets",
+      "boosters": 9,
+      "release_date": "2026-09-16",
+      "source": "https://lecrocodeal.com/coffret-pokemon-dresseur-elite-30e-anniversaire",
+      "reference_min": 54.99,
+      "reference_max": 69.99,
+      "max_price": 69.99,
+      "ean": "0196214144835",
+      "note": "Vérifier le scellage : éviter les exemplaires avec film incisé pour une collection scellée."
+    },
+    {
+      "id": "classeur",
+      "name": "Coffret Classeur",
+      "variant": "5 boosters + classeur de rangement",
+      "category": "Coffrets",
+      "boosters": 5,
+      "release_date": "2026-10-02",
+      "source": "https://lecrocodeal.com/coffret-pokemon-classeur-30e-anniversaire",
+      "reference_min": 49.99,
+      "reference_max": 54.99,
+      "max_price": 54.99,
+      "ean": "",
+      "note": "Si tu possèdes déjà ce coffret, tu peux le marquer « Acquis »."
+    },
+    {
+      "id": "boxnym",
+      "name": "Pokébox Nymphali-ex",
+      "variant": "Boîte métallique, 4 boosters",
+      "category": "Pokébox",
+      "boosters": 4,
+      "release_date": "2026-10-16",
+      "source": "https://lecrocodeal.com/pokebox-pokemon-30-ans-amphinobi-et-nymphali",
+      "reference_min": 24.99,
+      "reference_max": 29.99,
+      "max_price": 29.99,
+      "ean": "0196214146976",
+      "note": "Sortie annoncée au 16 octobre, après report. Certaines offres expédient un modèle aléatoire."
+    },
+    {
+      "id": "boxamph",
+      "name": "Pokébox Amphinobi-ex",
+      "variant": "Boîte métallique, 4 boosters",
+      "category": "Pokébox",
+      "boosters": 4,
+      "release_date": "2026-10-16",
+      "source": "https://lecrocodeal.com/pokebox-pokemon-30-ans-amphinobi-et-nymphali",
+      "reference_min": 24.99,
+      "reference_max": 29.99,
+      "max_price": 29.99,
+      "ean": "0196214147034",
+      "note": "Sortie annoncée au 16 octobre, après report. Certaines offres expédient un modèle aléatoire."
+    },
+    {
+      "id": "stickluc",
+      "name": "Tech Stickers Lucario",
+      "variant": "3 boosters + carte promo + autocollants",
+      "category": "Coffrets",
+      "boosters": 3,
+      "release_date": "2026-11-13",
+      "source": "https://lecrocodeal.com/coffrets-pokemon-autocollant-reajustable-30e-anniversaire",
+      "reference_min": 19.99,
+      "reference_max": 22.99,
+      "max_price": 22.99,
+      "ean": "0196214145092",
+      "note": "* Date incertaine : le guide cite le 6 ou le 13 novembre."
+    },
+    {
+      "id": "sticknoa",
+      "name": "Tech Stickers Noadkoko d’Alola",
+      "variant": "3 boosters + carte promo + autocollants",
+      "category": "Coffrets",
+      "boosters": 3,
+      "release_date": "2026-11-13",
+      "source": "https://lecrocodeal.com/coffrets-pokemon-autocollant-reajustable-30e-anniversaire",
+      "reference_min": 19.99,
+      "reference_max": 22.99,
+      "max_price": 22.99,
+      "ean": "0196214145030",
+      "note": "* Date incertaine : le guide cite le 6 ou le 13 novembre."
+    },
+    {
+      "id": "mew",
+      "name": "Coffret Figurine Mew",
+      "variant": "5 boosters + figurine Mew + promos",
+      "category": "Collectors",
+      "boosters": 5,
+      "release_date": "2026-11-06",
+      "source": "https://lecrocodeal.com/coffrets-pokemon-30-ans-figurine-mew-mewtwo",
+      "reference_min": 37.99,
+      "reference_max": 44.99,
+      "max_price": 44.99,
+      "ean": "0196214145450",
+      "note": "Commercialisation annoncée en novembre. Vérifier la fiche du vendeur."
+    },
+    {
+      "id": "mewtwo",
+      "name": "Coffret Figurine Mewtwo",
+      "variant": "5 boosters + figurine Mewtwo + promos",
+      "category": "Collectors",
+      "boosters": 5,
+      "release_date": "2026-11-06",
+      "source": "https://lecrocodeal.com/coffrets-pokemon-30-ans-figurine-mew-mewtwo",
+      "reference_min": 37.99,
+      "reference_max": 44.99,
+      "max_price": 44.99,
+      "ean": "0196214145511",
+      "note": "Commercialisation annoncée en novembre. Vérifier la fiche du vendeur."
+    },
+    {
+      "id": "mentali",
+      "name": "Ultra-Premium Mentali (Journée)",
+      "variant": "29 boosters 30 ans + 1 booster Classic Collection",
+      "category": "Collectors",
+      "boosters": 29,
+      "release_date": "2026-11-06",
+      "source": "https://lecrocodeal.com/coffrets-ultra-premium-pokemon-30-ans",
+      "reference_min": 229.99,
+      "reference_max": 269.99,
+      "max_price": 269.99,
+      "ean": "0196214155336",
+      "note": "29 boosters 30 ans + 1 booster Classic Collection ; ne pas les additionner comme 30 boosters standards."
+    },
+    {
+      "id": "noctali",
+      "name": "Ultra-Premium Noctali (Soirée)",
+      "variant": "29 boosters 30 ans + 1 booster Classic Collection",
+      "category": "Collectors",
+      "boosters": 29,
+      "release_date": "2026-11-06",
+      "source": "https://lecrocodeal.com/coffrets-ultra-premium-pokemon-30-ans",
+      "reference_min": 229.99,
+      "reference_max": 269.99,
+      "max_price": 269.99,
+      "ean": "0196214155398",
+      "note": "29 boosters 30 ans + 1 booster Classic Collection ; ne pas les additionner comme 30 boosters standards."
+    }
+  ],
+  "links": [
+    {
+      "id": "bundle-1",
+      "product_id": "bundle",
+      "shop": "Philibert",
+      "url": "https://www.philibertnet.com/fr/pokemon/183081-bundle-6-boosters-196214145221.html",
+      "online_only": true
+    },
+    {
+      "id": "bundle-2",
+      "product_id": "bundle",
+      "shop": "Playin",
+      "url": "https://www.play-in.com/fr/produit/659626/bundle-6-boosters-30-ans-pokemon-fr",
+      "online_only": true
+    },
+    {
+      "id": "bundle-3",
+      "product_id": "bundle",
+      "shop": "UltraJeux",
+      "url": "https://www.ultrajeux.com/produit-33282-30e-anniversaire-0196214145221.html",
+      "online_only": true
+    },
+    {
+      "id": "bundle-4",
+      "product_id": "bundle",
+      "shop": "Parkage",
+      "url": "https://www.parkage.com/fr/1136721-coffret-pokemon-bundle-booster-me05-5-30c-mega-evolution-05-5-30-anniversaire",
+      "online_only": true
+    },
+    {
+      "id": "bundle-5",
+      "product_id": "bundle",
+      "shop": "Smyths Toys",
+      "url": "https://www.smythstoys.com/fr/fr-fr/marques/pokemon/pokemon-bundle-6-boosters-30eme-anniversaire/p/261769",
+      "online_only": true
+    },
+    {
+      "id": "exnym-1",
+      "product_id": "exnym",
+      "shop": "Philibert",
+      "url": "https://www.philibertnet.com/fr/pokemon/182497-pokemon-30-ans-coffret-nymphali-ex-196214147102.html",
+      "online_only": true
+    },
+    {
+      "id": "exnym-2",
+      "product_id": "exnym",
+      "shop": "Playin",
+      "url": "https://www.play-in.com/fr/produit/659425/coffret-pokemon-30-ans-nymphali-ex-fr",
+      "online_only": true
+    },
+    {
+      "id": "exnym-3",
+      "product_id": "exnym",
+      "shop": "UltraJeux",
+      "url": "https://www.ultrajeux.com/produit-32963-30e-anniversaire-nymphali-ex-0196214147102.html",
+      "online_only": true
+    },
+    {
+      "id": "exnym-4",
+      "product_id": "exnym",
+      "shop": "Parkage",
+      "url": "https://www.parkage.com/fr/1136633-coffret-pokemon-me05-5-30c-mega-evolution-05-5-30-anniversaire-nymphali-ex-limite-a-1-par-foyer",
+      "online_only": true
+    },
+    {
+      "id": "examph-1",
+      "product_id": "examph",
+      "shop": "Philibert",
+      "url": "https://www.philibertnet.com/fr/pokemon/182496-pokemon-30-ans-coffret-amphinobi-ex-196214147164.html",
+      "online_only": true
+    },
+    {
+      "id": "examph-2",
+      "product_id": "examph",
+      "shop": "Playin",
+      "url": "https://www.play-in.com/fr/produit/659558/coffret-pokemon-30-ans-amphinobi-ex-fr",
+      "online_only": true
+    },
+    {
+      "id": "examph-3",
+      "product_id": "examph",
+      "shop": "UltraJeux",
+      "url": "https://www.ultrajeux.com/produit-32964-coffret-4-boosters-pokemon-30e-anniversaire-amphinobi-ex-0196214147164.html",
+      "online_only": true
+    },
+    {
+      "id": "etb-1",
+      "product_id": "etb",
+      "shop": "Playin",
+      "url": "https://www.play-in.com/fr/produit/659570/coffret-dresseur-d-elite-etb-30e-anniversaire-pokemon-fr",
+      "online_only": true
+    },
+    {
+      "id": "etb-2",
+      "product_id": "etb",
+      "shop": "UltraJeux",
+      "url": "https://www.ultrajeux.com/produit-32960-etb-coffret-dresseur-d-elite-pokemon-30e-anniversaire-0196214144835.html",
+      "online_only": true
+    },
+    {
+      "id": "mini-1",
+      "product_id": "mini",
+      "shop": "Philibert",
+      "url": "https://www.philibertnet.com/fr/pokemon/183080-pokemon-30-ans-mini-tin-0196214146297.html",
+      "online_only": true
+    },
+    {
+      "id": "mini-2",
+      "product_id": "mini",
+      "shop": "Playin (Mew Jour)",
+      "url": "https://www.play-in.com/fr/produit/659633/mini-tin-30-ans-jour-mew-pokemon-fr",
+      "online_only": true
+    },
+    {
+      "id": "mini-3",
+      "product_id": "mini",
+      "shop": "UltraJeux (Mewtwo Nuit)",
+      "url": "https://www.ultrajeux.com/produit-33273-30e-anniversaire-mewtwo-version-nuit-0196214146297.html",
+      "online_only": true
+    },
+    {
+      "id": "mini-4",
+      "product_id": "mini",
+      "shop": "UltraJeux (Pikachu Jour)",
+      "url": "https://www.ultrajeux.com/produit-33272-30e-anniversaire-pikachu-version-jour-0196214146297.html",
+      "online_only": true
+    },
+    {
+      "id": "mini-5",
+      "product_id": "mini",
+      "shop": "UltraJeux (Noctali Nuit)",
+      "url": "https://www.ultrajeux.com/produit-33279-30e-anniversaire-noctali-version-nuit-0196214146297.html",
+      "online_only": true
+    },
+    {
+      "id": "classeur-1",
+      "product_id": "classeur",
+      "shop": "Playin",
+      "url": "https://www.play-in.com/fr/produit/659587/coffret-collection-classeur-30-ans-pokemon-fr",
+      "online_only": true
+    },
+    {
+      "id": "mentali-1",
+      "product_id": "mentali",
+      "shop": "Playin",
+      "url": "https://www.play-in.com/fr/produit/659644/coffret-collection-ultra-premium-30-ans-journee-mentali-pokemon-fr",
+      "online_only": true
+    },
+    {
+      "id": "mentali-2",
+      "product_id": "mentali",
+      "shop": "Smyths Toys",
+      "url": "https://www.smythstoys.com/fr/fr-fr/jouets/jeux-de-societe-et-puzzles/cartes-a-collectionner/cartes-pokemon/pokemon-coffret-collection-ultra-premium-30eme-anniversaire-mentali/p/264194",
+      "online_only": true
+    },
+    {
+      "id": "mewtwo-1",
+      "product_id": "mewtwo",
+      "shop": "Smyths Toys",
+      "url": "https://www.smythstoys.com/fr/fr-fr/jouets/jeux-de-societe-et-puzzles/cartes-a-collectionner/cartes-pokemon/pokemon-coffret-premium-avec-figurine-mewtwo-30eme-anniversaire/p/264155",
+      "online_only": true
+    },
+    {
+      "id": "evoli-1",
+      "product_id": "evoli",
+      "shop": "Philibert",
+      "url": "https://www.philibertnet.com/fr/pokemon/181754-pokemon-30-ans-ca-reste-un-jeu-et-pas-un-investissement-2100001405960.html",
+      "online_only": true
+    },
+    {
+      "id": "evoli-2",
+      "product_id": "evoli",
+      "shop": "Playin",
+      "url": "https://www.play-in.com/fr/produit/659418/collection-k-o-30-ans-evoli-pokemon-fr",
+      "online_only": true
+    },
+    {
+      "id": "evoli-3",
+      "product_id": "evoli",
+      "shop": "UltraJeux",
+      "url": "https://www.ultrajeux.com/produit-32961-duopack-2-boosters-pokemon-30e-anniversaire-evoli-0196214152311.html",
+      "online_only": true
+    },
+    {
+      "id": "poster-1",
+      "product_id": "poster",
+      "shop": "Philibert",
+      "url": "https://www.philibertnet.com/fr/pokemon/181753-pokemon-poster-2100001405991.html",
+      "online_only": true
+    },
+    {
+      "id": "poster-2",
+      "product_id": "poster",
+      "shop": "Playin",
+      "url": "https://www.play-in.com/fr/produit/659419/coffret-collection-poster-30-ans-pokemon-fr",
+      "online_only": true
+    },
+    {
+      "id": "poster-3",
+      "product_id": "poster",
+      "shop": "UltraJeux",
+      "url": "https://www.ultrajeux.com/produit-32962-coffret-3-boosters-pokemon-30e-anniversaire-sulfura-artikodin-electhor-0196214147225.html",
+      "online_only": true
+    },
+    {
+      "id": "stickluc-1",
+      "product_id": "stickluc",
+      "shop": "Playin",
+      "url": "https://www.play-in.com/fr/produit/659376/collection-autocollant-pokemon-30-ans-lucario-fr",
+      "online_only": true
+    },
+    {
+      "id": "sticknoa-1",
+      "product_id": "sticknoa",
+      "shop": "Playin",
+      "url": "https://www.play-in.com/fr/produit/659371/collection-autocollant-pokemon-30-ans-noadkoko-d-alola-fr",
+      "online_only": true
+    },
+    {
+      "id": "mew-1",
+      "product_id": "mew",
+      "shop": "Playin",
+      "url": "https://www.play-in.com/fr/produit/659646/collection-avec-figurine-30-anniversaire-mew-pokemon-fr",
+      "online_only": true
+    },
+    {
+      "id": "mewtwo-2",
+      "product_id": "mewtwo",
+      "shop": "Playin",
+      "url": "https://www.play-in.com/fr/produit/659647/collection-avec-figurine-30-ans-mewtwo-pokemon-fr",
+      "online_only": true
+    },
+    {
+      "id": "noctali-1",
+      "product_id": "noctali",
+      "shop": "Playin",
+      "url": "https://www.play-in.com/fr/produit/659645/coffret-collection-ultra-premium-pokemon-30-ans-soiree-noctali-fr",
+      "online_only": true
+    }
+  ]
+}
