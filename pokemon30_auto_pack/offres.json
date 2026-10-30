@@ -1,14 +1,13 @@
 {
-  "checked_at": "2026-10-30T06:59:47+00:00",
+  "checked_at": "2026-10-30T08:05:36+00:00",
   "offers": [
     {
       "id": "bundle-1",
       "product_id": "bundle",
       "status": "unknown",
       "price": null,
-      "reason": "Titre produit absent ou incohérent (protection, redirection ou page erronée)",
-      "checked_at": "2026-10-30T06:59:47+00:00",
-      "title": "Pokémon",
+      "reason": "Accès bloqué (HTTP 403)",
+      "checked_at": "2026-10-30T08:05:36+00:00",
       "eligible_state": false
     },
     {
@@ -17,7 +16,7 @@
       "status": "unknown",
       "price": null,
       "reason": "Accès bloqué (HTTP 403)",
-      "checked_at": "2026-10-30T06:59:47+00:00",
+      "checked_at": "2026-10-30T08:05:36+00:00",
       "eligible_state": false
     },
     {
@@ -26,7 +25,7 @@
       "status": "unknown",
       "price": 99.9,
       "reason": "Stock en ligne non certifié (site dynamique ou informations ambiguës)",
-      "checked_at": "2026-10-30T06:59:47+00:00",
+      "checked_at": "2026-10-30T08:05:36+00:00",
       "title": "Pokémon - Bundle de 6 Boosters - 30e Anniversaire",
       "eligible_state": false
     },
@@ -36,7 +35,7 @@
       "status": "out",
       "price": null,
       "reason": "Rupture indiquée sur la fiche",
-      "checked_at": "2026-10-30T06:59:47+00:00",
+      "checked_at": "2026-10-30T08:05:36+00:00",
       "title": "Coffret Pokémon Bundle Booster - ME05.5/30C : Méga-Évolution 05.5 - 30ᵉ Anniversaire",
       "eligible_state": false
     },
@@ -46,7 +45,7 @@
       "status": "unknown",
       "price": null,
       "reason": "Titre produit absent ou incohérent (protection, redirection ou page erronée)",
-      "checked_at": "2026-10-30T06:59:47+00:00",
+      "checked_at": "2026-10-30T08:05:36+00:00",
       "title": "",
       "eligible_state": false
     },
@@ -55,9 +54,8 @@
       "product_id": "exnym",
       "status": "unknown",
       "price": null,
-      "reason": "Titre produit absent ou incohérent (protection, redirection ou page erronée)",
-      "checked_at": "2026-10-30T06:59:47+00:00",
-      "title": "Pokémon",
+      "reason": "Accès bloqué (HTTP 403)",
+      "checked_at": "2026-10-30T08:05:36+00:00",
       "eligible_state": false
     },
     {
@@ -66,7 +64,7 @@
       "status": "unknown",
       "price": null,
       "reason": "Accès bloqué (HTTP 403)",
-      "checked_at": "2026-10-30T06:59:47+00:00",
+      "checked_at": "2026-10-30T08:05:36+00:00",
       "eligible_state": false
     },
     {
@@ -75,7 +73,7 @@
       "status": "unknown",
       "price": 89.9,
       "reason": "Stock en ligne non certifié (site dynamique ou informations ambiguës)",
-      "checked_at": "2026-10-30T06:59:47+00:00",
+      "checked_at": "2026-10-30T08:05:36+00:00",
       "title": "Pokémon - Coffret 4 Boosters - 30e Anniversaire : Nymphali EX",
       "eligible_state": false
     },
@@ -85,7 +83,7 @@
       "status": "out",
       "price": null,
       "reason": "Rupture indiquée sur la fiche",
-      "checked_at": "2026-10-30T06:59:47+00:00",
+      "checked_at": "2026-10-30T08:05:36+00:00",
       "title": "Coffret Pokémon - ME05.5/30C : Méga-Évolution 05.5 - 30ᵉ Anniversaire - Nymphali ex ***Limité à 1 par foyer***",
       "eligible_state": false
     },
@@ -94,9 +92,8 @@
       "product_id": "examph",
       "status": "unknown",
       "price": null,
-      "reason": "Titre produit absent ou incohérent (protection, redirection ou page erronée)",
-      "checked_at": "2026-10-30T06:59:47+00:00",
-      "title": "Pokémon",
+      "reason": "Accès bloqué (HTTP 403)",
+      "checked_at": "2026-10-30T08:05:36+00:00",
       "eligible_state": false
     },
     {
@@ -105,7 +102,7 @@
       "status": "unknown",
       "price": null,
       "reason": "Accès bloqué (HTTP 403)",
-      "checked_at": "2026-10-30T06:59:47+00:00",
+      "checked_at": "2026-10-30T08:05:36+00:00",
       "eligible_state": false
     },
     {
@@ -114,7 +111,7 @@
       "status": "unknown",
       "price": 89.9,
       "reason": "Stock en ligne non certifié (site dynamique ou informations ambiguës)",
-      "checked_at": "2026-10-30T06:59:47+00:00",
+      "checked_at": "2026-10-30T08:05:36+00:00",
       "title": "Pokémon - Coffret 4 Boosters - 30e Anniversaire : Amphinobi EX",
       "eligible_state": false
     },
@@ -124,7 +121,7 @@
       "status": "unknown",
       "price": null,
       "reason": "Accès bloqué (HTTP 403)",
-      "checked_at": "2026-10-30T06:59:47+00:00",
+      "checked_at": "2026-10-30T08:05:36+00:00",
       "eligible_state": false
     },
     {
@@ -133,7 +130,7 @@
       "status": "unknown",
       "price": 229.9,
       "reason": "Stock en ligne non certifié (site dynamique ou informations ambiguës)",
-      "checked_at": "2026-10-30T06:59:47+00:00",
+      "checked_at": "2026-10-30T08:05:36+00:00",
       "title": "Pokémon - The Pokémon Company - ETB Coffret Dresseur d'Elite - 30e Anniversaire",
       "eligible_state": false
     },
@@ -142,9 +139,8 @@
       "product_id": "mini",
       "status": "unknown",
       "price": null,
-      "reason": "Titre produit absent ou incohérent (protection, redirection ou page erronée)",
-      "checked_at": "2026-10-30T06:59:47+00:00",
-      "title": "Pokémon",
+      "reason": "Accès bloqué (HTTP 403)",
+      "checked_at": "2026-10-30T08:05:36+00:00",
       "eligible_state": false
     },
     {
@@ -153,7 +149,7 @@
       "status": "unknown",
       "price": null,
       "reason": "Accès bloqué (HTTP 403)",
-      "checked_at": "2026-10-30T06:59:47+00:00",
+      "checked_at": "2026-10-30T08:05:36+00:00",
       "eligible_state": false
     },
     {
@@ -162,7 +158,7 @@
       "status": "unknown",
       "price": 44.9,
       "reason": "Stock en ligne non certifié (site dynamique ou informations ambiguës)",
-      "checked_at": "2026-10-30T06:59:47+00:00",
+      "checked_at": "2026-10-30T08:05:36+00:00",
       "title": "Pokémon - Mini-Tin - 30e Anniversaire - Mewtwo (Version Nuit)",
       "eligible_state": false
     },
@@ -172,7 +168,7 @@
       "status": "unknown",
       "price": 39.9,
       "reason": "Stock en ligne non certifié (site dynamique ou informations ambiguës)",
-      "checked_at": "2026-10-30T06:59:47+00:00",
+      "checked_at": "2026-10-30T08:05:36+00:00",
       "title": "Pokémon - Mini-Tin - 30e Anniversaire - Pikachu (Version Jour)",
       "eligible_state": false
     },
@@ -182,7 +178,7 @@
       "status": "unknown",
       "price": 44.9,
       "reason": "Stock en ligne non certifié (site dynamique ou informations ambiguës)",
-      "checked_at": "2026-10-30T06:59:47+00:00",
+      "checked_at": "2026-10-30T08:05:36+00:00",
       "title": "Pokémon - Mini-Tin - 30e Anniversaire - Noctali (Version Nuit)",
       "eligible_state": false
     },
@@ -192,7 +188,7 @@
       "status": "unknown",
       "price": null,
       "reason": "Accès bloqué (HTTP 403)",
-      "checked_at": "2026-10-30T06:59:47+00:00",
+      "checked_at": "2026-10-30T08:05:36+00:00",
       "eligible_state": false
     },
     {
@@ -201,7 +197,7 @@
       "status": "unknown",
       "price": null,
       "reason": "Accès bloqué (HTTP 403)",
-      "checked_at": "2026-10-30T06:59:47+00:00",
+      "checked_at": "2026-10-30T08:05:36+00:00",
       "eligible_state": false
     },
     {
@@ -210,7 +206,7 @@
       "status": "unknown",
       "price": null,
       "reason": "Titre produit absent ou incohérent (protection, redirection ou page erronée)",
-      "checked_at": "2026-10-30T06:59:47+00:00",
+      "checked_at": "2026-10-30T08:05:36+00:00",
       "title": "",
       "eligible_state": false
     },
@@ -220,7 +216,7 @@
       "status": "unknown",
       "price": null,
       "reason": "Titre produit absent ou incohérent (protection, redirection ou page erronée)",
-      "checked_at": "2026-10-30T06:59:47+00:00",
+      "checked_at": "2026-10-30T08:05:36+00:00",
       "title": "",
       "eligible_state": false
     },
@@ -229,9 +225,8 @@
       "product_id": "evoli",
       "status": "unknown",
       "price": null,
-      "reason": "Titre produit absent ou incohérent (protection, redirection ou page erronée)",
-      "checked_at": "2026-10-30T06:59:47+00:00",
-      "title": "Pokémon",
+      "reason": "Accès bloqué (HTTP 403)",
+      "checked_at": "2026-10-30T08:05:36+00:00",
       "eligible_state": false
     },
     {
@@ -240,7 +235,7 @@
       "status": "unknown",
       "price": null,
       "reason": "Accès bloqué (HTTP 403)",
-      "checked_at": "2026-10-30T06:59:47+00:00",
+      "checked_at": "2026-10-30T08:05:36+00:00",
       "eligible_state": false
     },
     {
@@ -249,7 +244,7 @@
       "status": "unknown",
       "price": 54.9,
       "reason": "Stock en ligne non certifié (site dynamique ou informations ambiguës)",
-      "checked_at": "2026-10-30T06:59:47+00:00",
+      "checked_at": "2026-10-30T08:05:36+00:00",
       "title": "Pokémon - The Pokémon Company - Duopack 2 Boosters - 30e Anniversaire : Évoli",
       "eligible_state": false
     },
@@ -258,9 +253,8 @@
       "product_id": "poster",
       "status": "unknown",
       "price": null,
-      "reason": "Titre produit absent ou incohérent (protection, redirection ou page erronée)",
-      "checked_at": "2026-10-30T06:59:47+00:00",
-      "title": "Pokémon",
+      "reason": "Accès bloqué (HTTP 403)",
+      "checked_at": "2026-10-30T08:05:36+00:00",
       "eligible_state": false
     },
     {
@@ -269,7 +263,7 @@
       "status": "unknown",
       "price": null,
       "reason": "Accès bloqué (HTTP 403)",
-      "checked_at": "2026-10-30T06:59:47+00:00",
+      "checked_at": "2026-10-30T08:05:36+00:00",
       "eligible_state": false
     },
     {
@@ -278,7 +272,7 @@
       "status": "unknown",
       "price": 69.9,
       "reason": "Stock en ligne non certifié (site dynamique ou informations ambiguës)",
-      "checked_at": "2026-10-30T06:59:47+00:00",
+      "checked_at": "2026-10-30T08:05:36+00:00",
       "title": "Pokémon - Coffret 3 Boosters - 30e Anniversaire : Sulfura, Artikodin, Électhor",
       "eligible_state": false
     },
@@ -288,7 +282,7 @@
       "status": "unknown",
       "price": null,
       "reason": "Accès bloqué (HTTP 403)",
-      "checked_at": "2026-10-30T06:59:47+00:00",
+      "checked_at": "2026-10-30T08:05:36+00:00",
       "eligible_state": false
     },
     {
@@ -297,7 +291,7 @@
       "status": "unknown",
       "price": null,
       "reason": "Accès bloqué (HTTP 403)",
-      "checked_at": "2026-10-30T06:59:47+00:00",
+      "checked_at": "2026-10-30T08:05:36+00:00",
       "eligible_state": false
     },
     {
@@ -306,7 +300,7 @@
       "status": "unknown",
       "price": null,
       "reason": "Accès bloqué (HTTP 403)",
-      "checked_at": "2026-10-30T06:59:47+00:00",
+      "checked_at": "2026-10-30T08:05:36+00:00",
       "eligible_state": false
     },
     {
@@ -315,7 +309,7 @@
       "status": "unknown",
       "price": null,
       "reason": "Accès bloqué (HTTP 403)",
-      "checked_at": "2026-10-30T06:59:47+00:00",
+      "checked_at": "2026-10-30T08:05:36+00:00",
       "eligible_state": false
     },
     {
@@ -324,7 +318,7 @@
       "status": "unknown",
       "price": null,
       "reason": "Accès bloqué (HTTP 403)",
-      "checked_at": "2026-10-30T06:59:47+00:00",
+      "checked_at": "2026-10-30T08:05:36+00:00",
       "eligible_state": false
     }
   ],
